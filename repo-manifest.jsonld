@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/shadcn-ui/chatbot-template/commit/55c9330d6251052c111cf93cc429efb387609b89",
       "git:hexsha": "55c9330d6251052c111cf93cc429efb387609b89",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
