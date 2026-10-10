@@ -1,0 +1,11 @@
+{
+  "org": "shadcn-ui",
+  "repo": "chatbot-template",
+  "versions": [
+    {
+      "commit": "55c9330d6251052c111cf93cc429efb387609b89",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:48:18.020125+00:00"
+    }
+  ]
+}
